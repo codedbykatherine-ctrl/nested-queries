@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/01_des_value.sql" value="6f40d69e-d4a0-4688-b165-31c354103007" />
+    <file url="file://$PROJECT_DIR$/02_shipping.sql" value="6f40d69e-d4a0-4688-b165-31c354103007" />
+    <file url="file://$PROJECT_DIR$/03_sasquatch_ale.sql" value="6f40d69e-d4a0-4688-b165-31c354103007" />
+    <file url="file://$PROJECT_DIR$/04_employee_sold_order_10266.sql" value="6f40d69e-d4a0-4688-b165-31c354103007" />
+  </component>
+</project>
